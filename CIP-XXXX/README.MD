@@ -4,23 +4,23 @@ Title: Voluntary DRep Code of Conduct
 Category: Governance
 Status: Proposed
 Authors:
-    - Eystein Hansen <eysteinsofus@gmail.com>
-    - Ekow Harding <ekow.harding@aiesec.net>
-    - Jose De Gamboa <jmdegamboa@gmail.com>
-    - Thomas Lindseth <thomas@kryptolabs.no>
-    - Yuki Oishi <yutacreate@gmail.com>
-    - Adam Rusch <adam@rusch.me>
+  - Eystein Hansen <eysteinsofus@gmail.com>
+  - Ekow Harding <ekow.harding@aiesec.net>
+  - Jose De Gamboa <jmdegamboa@gmail.com>
+  - Thomas Lindseth <thomas@kryptolabs.no>
+  - Yuki Oishi <yutacreate@gmail.com>
+  - Adam Rusch <adam@rusch.me>
 Implementors: N/A
 Discussions:
-    - https://forum.cardano.org/t/feedback-needed-drep-code-of-conduct/124755
-    - https://x.com/adanorthpool/status/1729812038665306494
-    - https://x.com/AdamRusch/status/1748715572387365353
-    - https://x.com/yuta_cryptox/status/1761009233196449798
-    - https://forum.cardano.org/t/drep-code-of-conduct-workshop-in-oslo/127035
-    - https://forum.cardano.org/t/drep-code-of-conduct-workshop-accra-ghana/127464
-    - https://forum.cardano.org/t/drep-february-2024-tokyo-workshop-and-meetup/128063
-    - https://forum.cardano.org/t/reflections-on-cardano-midwest-drep-workshop-intersect-meetup/133949
-    - https://dreppioneeringprogram.docs.intersectmbo.org/drep-pioneer-program/program-curriculum/module-2
+  - https://forum.cardano.org/t/feedback-needed-drep-code-of-conduct/124755
+  - https://x.com/adanorthpool/status/1729812038665306494
+  - https://x.com/AdamRusch/status/1748715572387365353
+  - https://x.com/yuta_cryptox/status/1761009233196449798
+  - https://forum.cardano.org/t/drep-code-of-conduct-workshop-in-oslo/127035
+  - https://forum.cardano.org/t/drep-code-of-conduct-workshop-accra-ghana/127464
+  - https://forum.cardano.org/t/drep-february-2024-tokyo-workshop-and-meetup/128063
+  - https://forum.cardano.org/t/reflections-on-cardano-midwest-drep-workshop-intersect-meetup/133949
+  - https://dreppioneeringprogram.docs.intersectmbo.org/drep-pioneer-program/program-curriculum/module-2
 Created: 2024-11-08
 License: CC-BY-4.0
 ---
